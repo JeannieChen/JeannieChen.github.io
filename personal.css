@@ -7,23 +7,6 @@ body{
   color: #868e96;
 }
 
-.social a{
-    margin: 0 10px 10px 0;
-    display: inline-block;
-    width: 40px;
-    height: 40px;
-    border-radius: 20px;
-    line-height: 40px;
-    font-size: 20px;
-    text-align: center;
-    vertical-align: bottom;
-    border: solid 1px #868e96;
-    color: #868e96;
-    -webkit-transition: all 0.2s ease-out;
-    -moz-transition: all 0.2s ease-out;
-    transition: all 0.2s ease-out;
-}
-
 #chinese-name {
   font-family: 'Zhi Mang Xing', cursive;
   font-weight: 100;
@@ -95,6 +78,23 @@ a:active, a:focus, a:hover{
 i {
   font-size: 13px;
   transform: translate(0px, -1px);
+}
+
+.social a{
+    margin: 0 10px 10px 0;
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+    line-height: 40px;
+    font-size: 20px;
+    text-align: center;
+    vertical-align: bottom;
+    border: solid 1px #868e96;
+    color: #868e96;
+    -webkit-transition: all 0.2s ease-out;
+    -moz-transition: all 0.2s ease-out;
+    transition: all 0.2s ease-out;
 }
 
 @media (min-width:992px){
