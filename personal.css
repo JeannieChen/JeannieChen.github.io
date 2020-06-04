@@ -80,6 +80,10 @@ i {
   transform: translate(0px, -1px);
 }
 
+.resume-ul.webdev{
+  padding-top: 30px;
+}
+
 .social a{
     margin: 0 10px 10px 0;
     display: inline-block;
@@ -95,6 +99,10 @@ i {
     -webkit-transition: all 0.2s ease-out;
     -moz-transition: all 0.2s ease-out;
     transition: all 0.2s ease-out;
+}
+
+.card-text {
+  font-size: 1rem;
 }
 
 @media (min-width:992px){
