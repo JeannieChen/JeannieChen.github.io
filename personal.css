@@ -229,7 +229,7 @@ h2{
     #sideNav .navbar-brand .img-profile{
         max-width:12rem;
         max-height:7rem;
-        border:.4rem solid rgba(255,255,255,.5)
+        border:.2rem solid rgba(255,255,255,.5)
     }
     #sideNav .navbar-collapse{
         display:flex;
@@ -288,4 +288,3 @@ section.resume-section .resume-item .resume-date .resume-overview{
 .bg-primary {
   background-color: #555555!important;
 }
-*/
