@@ -80,6 +80,11 @@ i {
   transform: translate(0px, -1px);
 }
 
+
+.promo{
+  margin-left: 20px;
+}
+
 .resume-ul.webdev{
   padding-top: 30px;
 }
