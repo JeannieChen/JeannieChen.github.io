@@ -1,4 +1,4 @@
 
 #### Portfolio
 
-Please visit it here https://jeanniechen.github.io/ .
+It is currently deployed at [Jeanie Chen](https://jeanniechen.github.io/).
