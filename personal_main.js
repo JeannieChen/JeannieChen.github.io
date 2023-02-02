@@ -8,33 +8,34 @@ function toggle_block(id) {
   }
 };
 
-$(function(){
+$(function () {
   $("#img").load("import/img.html");
 });
 
-$(function(){
+$(function () {
   $("#small-window").load("import/small-window.html");
 });
 
-$(function(){
+$(function () {
   $("#header").load("import/header.html");
 });
 
-$(function(){
+$(function () {
   $("#education").load("import/education.html");
 });
 
-$(function(){
+$(function () {
   $("#experience").load("import/experience.html");
 });
 
-$(function(){
+$(function () {
   $("#project").load("import/project.html");
 });
 
-$(function(){
+$(function () {
   $("#skill").load("import/skill.html");
 });
+
 
 
 
